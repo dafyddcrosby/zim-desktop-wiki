@@ -14,7 +14,7 @@ If **Auto indenting** is enabled the widget will try to automatically set proper
 
 If **Smart Home key** is enabled the ''Home'' key will go to the start of the line taking into account indenting.
 
-If **Highlight current line** is enbabled the current line in the widget is highlighted.
+If **Highlight current line** is enabled the current line in the widget is highlighted.
 
 If **Show right margin** is enabled, there is a margin drawn on the right to guide maximum lenght of a line. Typically the margin is set at e.g. 72 or 80 characters.
 
